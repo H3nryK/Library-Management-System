@@ -9,7 +9,7 @@ This is a simple library management system implemented in C++. It allows users t
 
 ## Illustration
 
-![Airline Seat Reservation System](library.png)
+![Library Management System](library.png)
 
 ## Requirements
 
